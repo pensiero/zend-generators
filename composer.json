@@ -1,0 +1,13 @@
+{
+  "name": "pensiero/zend-generators",
+  "description": "Generators used in Zend Framework",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "zf2",
+    "generators"
+  ],
+  "homepage": "https://github.com/pensiero/zend-generators",
+  "require": {
+    "php": "^5.5 || ^7.0"
+  }
+}
