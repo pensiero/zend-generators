@@ -8,7 +8,10 @@
   ],
   "homepage": "https://github.com/pensiero/zend-generators",
   "require": {
-    "php": "^5.5 || ^7.0"
+    "php": "^5.5 || ^7.0",
+    "zendframework/zend-console": "^2.6",
+    "zendframework/zend-file": "^2.7",
+    "zendframework/zend-loader": "^2.5"
   },
   "bin": [
     "bin/classmap_generator.php",
